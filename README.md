@@ -49,7 +49,7 @@ Clone the repository:
 
 ```bash
 git clone https://github.com/sudebozkurt/Diabetes-Prediction-System
-cd Diabetes-Data-Processing-and-ML
+cd Diabetes-Prediction-System
 pip install -r requirements.txt
 ```
 
