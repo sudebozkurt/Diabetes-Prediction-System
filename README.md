@@ -15,7 +15,7 @@ This project focuses on predicting diabetes using extensive data preprocessing, 
 | Decision Tree       | 0.7200   | 0.65           | 0.66       | Yes         | ✘ Rejected |
 
 **Conclusion:**  
-- **Gradient Boosting** achieved the best overall metrics  
+- **Logistic Regression** achieved the best overall metrics  
 - **Random Forest** delivered balanced and reliable performance  
 
 ---
