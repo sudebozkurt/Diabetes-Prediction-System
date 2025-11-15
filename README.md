@@ -48,7 +48,7 @@ Included visual outputs:
 Clone the repository:
 
 ```bash
-git clone https://github.com/sudebozkurt/Diabetes-Data-Processing-and-ML
+git clone https://github.com/sudebozkurt/Diabetes-Prediction-System
 cd Diabetes-Data-Processing-and-ML
 pip install -r requirements.txt
 ```
