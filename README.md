@@ -8,11 +8,11 @@ This project focuses on predicting diabetes using extensive data preprocessing, 
 
 | Model               | Accuracy | Class 1 Recall | Class 1 F1 | Overfitting | Result     |
 | ------------------- | -------- | -------------- | ---------- | ----------- | ---------- |
-| Gradient Boosting   | 0.7338   | 0.59           | 0.61       | No          | ✔ Selected |
-| Random Forest       | 0.7273   | 0.57           | 0.60       | No          | ✔ Selected |
-| Decision Tree       | 0.69     | 0.54           | 0.55       | Yes         | ✘ Rejected |
-| Logistic Regression | 0.71     | 0.50           | 0.55       | No          | ✘ Rejected |
-| SVM                 | 0.71     | 0.48           | 0.54       | No          | ✘ Rejected |
+| Logistic Regression | 0.7600   | 0.75           | 0.69       | No          | ✔ Selected |
+| Random Forest       | 0.7267   | 0.67           | 0.72       | No          | ✔ Selected |
+| Gradient Boosting   | 0.7267   | 0.66           | 0.67       | No          | ✘ Rejected |
+| SVM                 | 0.7467   | 0.67           | 0.69       | No          | ✘ Rejected |
+| Decision Tree       | 0.7200   | 0.65           | 0.66       | Yes         | ✘ Rejected |
 
 **Conclusion:**  
 - **Gradient Boosting** achieved the best overall metrics  
