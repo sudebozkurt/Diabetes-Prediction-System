@@ -51,5 +51,14 @@ Clone the repository:
 git clone https://github.com/sudebozkurt/Diabetes-Data-Processing-and-ML
 cd Diabetes-Data-Processing-and-ML
 pip install -r requirements.txt
+```
+
+---
+## Dataset Source
+
+This project uses the *Pima Indians Diabetes Database* from Kaggle.
+
+- Source: https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+- Original Provider: UCI Machine Learning Repository
 
 
